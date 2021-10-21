@@ -3,7 +3,7 @@
 <p>Simple page about me with all my social networks to contact.</p>
 
 <h1>Technologies</h1>
-HTML, CSS, Javascript, Bootstrap and 🖤. 
+HTML, CSS, Javascript, Bootstrap and 🖤. Hosted on GitHub pages, you can see <a href="https://vividev.netlify.app">here</a>!
 
 <h1>Author</h1>
 
